@@ -1,3 +1,3 @@
-# Basic Programming
+python questions
 
-This folder contains my beginner Python problem-solving questions from HackerRank
+This folder contains my  Python problem-solving questions from HackerRank and leetcode
